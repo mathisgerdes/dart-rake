@@ -1,6 +1,6 @@
 name: rake
 description: A basic implementation of RAKE (Rapid Automatic Keyword Extraction.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/mathisgerdes/dart-rake
 author: Mathis Gerdes <mathisgerdes@gmail.com>
 
