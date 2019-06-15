@@ -1,7 +1,7 @@
 import 'package:rake/rake.dart';
 
 final exampleText =
-"""Compatibility of systems of linear constraints over the set of 
+    """Compatibility of systems of linear constraints over the set of 
 natural numbers. Criteria of compatibility of a system of linear 
 Diophantine equations, strict inequations, and nonstrict inequations 
 are considered. Upper bounds for components of a minimal set of solutions 
@@ -15,5 +15,5 @@ main() {
   final rake = Rake();
   // only keywords with length >= 5
   // and at least two occurrences
-  print(rake.rank('this large world', minChars: 5, minFrequency: 2));
+  print(rake.rank(exampleText, minChars: 5, minFrequency: 2));
 }

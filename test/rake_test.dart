@@ -3,7 +3,6 @@ import 'package:rake/src/parse_num.dart';
 import 'package:test/test.dart';
 
 void main() {
-
   group('Test isNum', () {
     test('Simple', () {
       expect(isNum('10322.320'), true);
