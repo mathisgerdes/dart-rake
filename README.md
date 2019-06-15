@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/mathisgerdes/dart-rake.svg?branch=master)](https://travis-ci.com/mathisgerdes/dart-rake)
 # RAKE
 Implementation of the *Rapid Automatic Keyword Extraction algorithm* (RAKE)
 
